@@ -11,12 +11,12 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Yellow: hsl(47, 88%, 63%)
+- Yellow: hsl(47, 88%, 63%) body
 
 ### Neutral
 
 - White: hsl(0, 0%, 100%)
-- Grey: hsl(0, 0%, 50%)
+- Grey: hsl(0, 0%, 50%) p
 - Black: hsl(0, 0%, 7%)
 
 ## Typography
