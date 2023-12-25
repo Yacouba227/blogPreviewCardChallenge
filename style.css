@@ -62,9 +62,17 @@ h3:hover{
     .wrapper{
         width: 90%;
     }
+    .attribution{
+        right: 12%;
+        bottom: 0;
+    }
   }
-  @media screen and (max-width: 768px) {
+  @media screen and (width: 768px) {
     .wrapper{
         width: 50%;
+    }
+    .attribution{
+        right: 30%;
+        bottom: 1%;
     }
   }
